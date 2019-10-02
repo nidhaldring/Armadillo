@@ -1,5 +1,5 @@
-Armadillo  is a minimalist ide for both java and c  
-Armadillo provides the following features :
+Armadillo  is a minimalist ide for both java and c it comes with the following features 
+
 <ul>
   <li>Smart syntax highlighter</li>
   <li>Auto-Indentation and code formatting</li>
