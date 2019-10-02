@@ -1,6 +1,7 @@
 Armadillo  is a minimalist ide for both java and c it comes with the following features 
 
 <ul>
+  <li>Connecting different IDEs for better pair programming</li>
   <li>Smart syntax highlighter</li>
   <li>Auto-Indentation and code formatting</li>
   <li>Multi tabs</li>
