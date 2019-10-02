@@ -3,7 +3,7 @@ As for now Armadillo provides the following features
 <ul>
   <li>Smart syntax highlighter</li>
   <li>Auto-Indentation and code formatting</li>
-  <li>Multi tabs></li>
+  <li>Multi tabs</li>
   <li>GCC compiler for c </li>
   <li>OpenJDK's compiler for java</li>
 </ul>
